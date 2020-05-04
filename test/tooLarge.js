@@ -1,5 +1,5 @@
-let nonCallable = 1;;
-let other = 2;;;
+let nonCallable = 1;
+let other = 2;
 
 let a1 = 2;
 let a2 = 2;
@@ -16,5 +16,3 @@ let a12 = 2;
 
 
 nonCallable();
-;;;;;
-;;;;;;;
